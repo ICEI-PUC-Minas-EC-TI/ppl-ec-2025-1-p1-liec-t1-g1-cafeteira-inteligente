@@ -1,25 +1,24 @@
-# TÍTULO DO PROJETO
+# Cafeteira Inteligente
 
 `CAMPUS/UNIDADE`
-
+PLU
 `CURSO`
-
+Engenaria de Computação
 `SEMESTRE`
-
+1° SEMESTRE
 `DISCIPLINA`
-
+Laboratório de Introdução à Engenharia de Computação
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Gabriel Maffei Rodrigues
+* Isabela de Oliveira Miranda
+* Mateus Henrique Duarte Silva
+* Luiza Mariano Guimarães
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
