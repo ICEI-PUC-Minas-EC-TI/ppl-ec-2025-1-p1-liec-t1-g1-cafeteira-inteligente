@@ -21,8 +21,12 @@ Laboratório de Introdução à Engenharia de Computação
 * Felipe Augusto Lara Soares
 
 ## Resumo
+ Visando uma alternativa mais prática de fazer um café ou esquentar um leite em um horário pré-programado, o aquecedor inteligente está sendo projetado através da utilização do Arduino, aplicativo de smartphone e um aquecedor elétrico onde estes 3 componentes podem fazer o trabalho de uma cafeteira elétrica ou um fogão com um custo benefício maior 
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+
+
+
+Trata-se de um aquecedor chamado Mergulhão Ebulidor Elétrico onde é ligado na tomada com a barra de ferro submersa em água ou em qualquer outro líquido. Assim, a barra de ferro libera calor aquecendo a água, sendo também possível introduzir alimentos para serem cozidos.
 
 # Código (do arduino ou esp32)
 
