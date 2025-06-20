@@ -1,4 +1,4 @@
-# Cafeteira Inteligente
+# Aquecedor Inteligente
 
 `CAMPUS/UNIDADE`
 PLU
