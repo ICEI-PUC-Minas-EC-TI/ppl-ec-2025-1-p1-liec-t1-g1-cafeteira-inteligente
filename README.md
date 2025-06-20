@@ -16,7 +16,7 @@ Laboratório de Introdução à Engenharia de Computação
 * Mateus Henrique Duarte Silva
 * Luiza Mariano Guimarães
 
-## Orientador
+## Orientadores
 
 * Felipe Augusto Lara Soares
 * Cristiano Neves Rodrigues
