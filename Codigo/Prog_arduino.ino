@@ -68,5 +68,5 @@ void loop() {
   // --- Fim do Controle do Relé ---
 
   // Pequeno atraso antes da próxima leitura/envio
-  delay(100); // Envia a cada 0, segundos e verifica o Bluetooth
+  delay(100); // Envia a cada 0,1 segundos e verifica o Bluetooth
 }
