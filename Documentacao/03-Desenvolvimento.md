@@ -1,6 +1,5 @@
 
 # Materiais
---------> Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
 
 * Os materiais utilizados no projeto foram:
 - Arduino UNO.
