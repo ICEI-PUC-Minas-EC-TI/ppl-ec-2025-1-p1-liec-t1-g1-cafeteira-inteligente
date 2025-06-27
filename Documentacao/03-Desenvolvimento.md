@@ -24,21 +24,21 @@ A criação das telas do aplicativo foi centrada na facilidade de uso, priorizan
 Para alcançar esse objetivo, os elementos de maior importância foram visualmente destacados. O botão de ligar/desligar o ebulidor, o medidor de temperatura e o status da conexão com o Arduino foram intencionalmente projetados com fonte e tamanho maiores em relação aos demais botões e informações. Essa distinção visual permite que o usuário identifique e interaja rapidamente com as funções essenciais, tornando o uso do aplicativo ágil e descomplicado.
 
 ### Código
-- Conectividade Bluetooth:
+Conectividade Bluetooth:
   
 A etapa inicial e fundamental foi a implementação da conexão com o módulo Bluetooth. Utilizamos a extensão BluetoothLE no App Inventor para estabelecer a comunicação com o módulo AT-09. Essa escolha permitiu uma conexão estável e a troca de dados bidirecional entre o aplicativo e o Arduino.
 
-- Troca de Informações Bidirecional:
+Troca de Informações Bidirecional:
   
 Uma vez estabelecida a conexão, focamos na troca de informações entre o Arduino e o aplicativo. Isso envolveu o envio contínuo da temperatura medida pelo sensor do Arduino para ser exibida no aplicativo. Inversamente, o aplicativo envia comandos ao Arduino para ligar ou desligar o relé, controlando assim o aquecedor. Essa comunicação em tempo real é crucial para o monitoramento e a automação.
 
-- Funcionalidade de Agendamento:
+Funcionalidade de Agendamento:
 
 Por fim, implementamos a funcionalidade de agendamento, permitindo que o usuário defina um horário específico para o aquecedor ser ligado automaticamente. Essa característica adiciona um nível de conveniência e automação ao sistema, eliminando a necessidade de intervenção manual no momento desejado.
 
 ## Desenvolvimento do Hardware
 
-- Montagem:
+Montagem:
   
 A montagem do projeto começou com a organização dos componentes eletrônicos. Conectamos o módulo relé ao Arduino para controlar o ebulidor de 110V. Em seguida, o sensor de temperatura DS18B20 foi conectado, garantindo que sua parte à prova d'água estivesse pronta para imersão. Por fim, o módulo Bluetooth AT-09 foi integrado ao Arduino, permitindo a comunicação sem fio. A fiação foi cuidadosamente organizada para evitar curtos-circuitos e garantir uma conexão estável para todos os componentes.
 
