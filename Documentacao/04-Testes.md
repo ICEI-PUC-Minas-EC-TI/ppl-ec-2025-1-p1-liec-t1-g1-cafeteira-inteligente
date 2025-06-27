@@ -1,4 +1,4 @@
-Testes do Projeto
+### Testes do Projeto
 
 Inicialmente, os testes foram realizados no Tinkercad. Nela, verificamos a correta conexão do relé com o Arduino e o funcionamento simulado do medidor de temperatura. Essa etapa virtual nos permitiu identificar e corrigir potenciais problemas de fiação e lógica antes da montagem física.
 
