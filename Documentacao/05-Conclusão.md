@@ -1,3 +1,2 @@
 # Conclusão
-
-Descreva aqui a conclusão do projeto e sugestões de trabalhos futuros (o que pode ser melhorado em versões futuras).
+O projeto concluiu que é possível aquecer líquidos e alimentos de maneira mais prática e acessível, utilizando apenas alguns materiais e um aplicativo. Essa solução pode beneficiar especialmente pessoas de baixa renda ou aquelas que desejam economizar ao aquecer seus alimentos. Em versões futuras, o projeto pode ser melhorado com a adição de um design mais compacto, incorporando mecanismos de segurança para temperaturas muito altas e perigosas, além de aprimoramentos no aplicativo, inserindo funções pré-programadas para o aquecimento de diferentes tipos de alimentos.
