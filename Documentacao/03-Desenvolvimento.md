@@ -1,13 +1,13 @@
 
 # Materiais
 * Os materiais utilizados no projeto foram:
-- Arduino UNO.
-- Resistor.
-- Ebulidor elétrico.
-- Jumper.
-- Módulo Relê.
-- Extensão.
-- Módulo Bluetooth.
+- Arduino UNO;
+- Resistor;
+- Ebulidor elétrico;
+- Jumper;
+- Módulo Relê;
+- Extensão;
+- Módulo Bluetooth;
 - Leiteira.
 
 # Desenvolvimento
