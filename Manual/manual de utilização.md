@@ -1,6 +1,7 @@
 
 ## Instruções de utilização
-1) Pegue um recipiente metálico e coloque o aquecedor e o medidor de temperatura no líquido que vai ser aquecido.
+
+1) Pegue um recipiente metálico e coloque o aquecedor e o medidor de temperatura(Não pode encostar na parte metalica do ebulidor elétrico) no líquido que vai ser aquecido.
    
 2) Acesse o aplicativo e conecte ao Bluetooth do arduino.
    
