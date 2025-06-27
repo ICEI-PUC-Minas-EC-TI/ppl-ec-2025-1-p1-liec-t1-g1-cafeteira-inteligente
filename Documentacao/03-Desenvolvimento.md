@@ -38,8 +38,7 @@ Por fim, implementamos a funcionalidade de agendamento, permitindo que o usuári
 
 ## Desenvolvimento do Hardware
 
-Montagem:
-  
+### Montagem
 A montagem do projeto começou com a organização dos componentes eletrônicos. Conectamos o módulo relé ao Arduino para controlar o ebulidor de 110V. Em seguida, o sensor de temperatura DS18B20 foi conectado, garantindo que sua parte à prova d'água estivesse pronta para imersão. Por fim, o módulo Bluetooth AT-09 foi integrado ao Arduino, permitindo a comunicação sem fio. A fiação foi cuidadosamente organizada para evitar curtos-circuitos e garantir uma conexão estável para todos os componentes.
 
 ### Desenvolvimento do Código
